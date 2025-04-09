@@ -18,6 +18,11 @@ app.use(setRoutes());
 
 connectDB();
 
-app.listen(port, () => {
-  console.log(`Server listening on port ${port}`);
-});
+// Only start the server when not deployed as a Netlify Function.
+if (process.env.DEPLOY_ENV !== 'netlify') {
+  app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
+  });
+}
+
+export default app;
