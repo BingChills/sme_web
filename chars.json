@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Skyfluff",
+    "image": "https://i.ibb.co/JwVPKc3t/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-77deb4f6-3d84-45d1-add6-6091387.png",
+    "rarity": "Common",
+    "dropRate": 70.0,
+    "amount": 20,
+    "description": "A winged, fluffy fox-like creature with a rainbow tail.",
+    "selected": false
+  },
+  {
+    "id": "2",
+    "name": "Snugglebear",
+    "image": "https://i.ibb.co/jk9sNPyg/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-105f6dab-d6d9-47d1-8a76-19c220c.png",
+    "rarity": "Common",
+    "dropRate": 70.0,
+    "amount": 50,
+    "description": "A cozy bear wearing a warm scarf.",
+    "selected": false
+  },
+  {
+    "id": "3",
+    "name": "Solowl",
+    "image": "https://i.ibb.co/Tx0sDqNB/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-62afc714-dd40-478f-9b1c-4b0949f.png",
+    "rarity": "Common",
+    "dropRate": 70.0,
+    "amount": 100,
+    "description": "A glowing, golden owl with mystical patterns on its wings.",
+    "selected": false
+  },
+  {
+    "id": "4",
+    "name": "Shadowcrow",
+    "image": "https://i.ibb.co/wh5jTWms/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-0b6c54ca-4bf7-4e15-8c86-2251c23.png",
+    "rarity": "Common",
+    "dropRate": 70.0,
+    "amount": 200,
+    "description": "A mysterious, dark crow with glowing blue energy.",
+    "selected": false
+  },
+  {
+    "id": "5",
+    "name": "Snowpup",
+    "image": "https://i.ibb.co/Zz13Xhck/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-066071be-391b-448d-b1bb-d543c8f.png",
+    "rarity": "Common",
+    "dropRate": 70.0,
+    "amount": 50,
+    "description": "A soft, white puppy with sparkly blue eyes.",
+    "selected": false
+  },
+  {
+    "id": "6",
+    "name": "Aquapuff",
+    "image": "https://i.ibb.co/vxnshZYC/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-0158338b-3fd6-4619-b9df-adec2e1.png",
+    "rarity": "Rare",
+    "dropRate": 15.0,
+    "amount": 20,
+    "description": "A shimmering fish-like creature with flowing fins.",
+    "selected": false
+  },
+  {
+    "id": "7",
+    "name": "Bloomtail",
+    "image": "https://i.ibb.co/v6NFjj8y/u9994361495-httpss-mj-run13-Mfb-Ot-QXr-I-httpss-mj-runqq-Shh-Q7w1-Vw-ed4dba3d-c0e2-4d3c-8cef-458ad0d.png",
+    "rarity": "Rare",
+    "dropRate": 15.0,
+    "amount": 100,
+    "description": "A leafy, nature-inspired critter with flowers and vines.",
+    "selected": false
+  },
+  {
+    "id": "8",
+    "name": "Blazion",
+    "image": "https://i.ibb.co/kfYNXs2/u9994361495-httpss-mj-runcx-JKl-V3-Wk-Jk-httpss-mj-runl-Pa-Feh-Bvg-QY-05546006-0625-4234-9599-a05c0e.png",
+    "rarity": "Rare",
+    "dropRate": 15.0,
+    "amount": 50,
+    "description": "A majestic lion with a fiery mane.",
+    "selected": false
+  },
+  {
+    "id": "9",
+    "name": "Starnyx",
+    "image": "https://i.ibb.co/VYj2RTzt/u9994361495-httpss-mj-runqq-Shh-Q7w1-Vw-httpss-mj-runl-Pa-Feh-Bvg-QY-64a9ab0e-c88c-4c45-a2a4-eaef36e.png",
+    "rarity": "Epic",
+    "dropRate": 10.0,
+    "amount": 200,
+    "description": "A sleek, galaxy-themed cat with cosmic sparkles.",
+    "selected": false
+  },
+  {
+    "id": "10",
+    "name": "Prickletoes",
+    "image": "https://i.ibb.co/bMscQm8d/u9994361495-httpss-mj-runqq-Shh-Q7w1-Vw-httpss-mj-runl-Pa-Feh-Bvg-QY-4495ea61-d18f-4a3b-ba16-e5dbb5f.png",
+    "rarity": "Epic",
+    "dropRate": 10.0,
+    "amount": 20,
+    "description": "An adorable hedgehog bundled in a scarf.",
+    "selected": false
+  },
+  {
+    "id": "11",
+    "name": "Lunafluff",
+    "image": "https://i.ibb.co/WpsypscR/u9994361495-httpss-mj-runqq-Shh-Q7w1-Vw-httpss-mj-runl-Pa-Feh-Bvg-QY-26693c8e-33bb-4f1d-b81b-c9c4778.png",
+    "rarity": "Legendary",
+    "dropRate": 5.0,
+    "amount": 20,
+    "description": "the gentle glow of the moon",
+    "selected": false
+  }
+]
