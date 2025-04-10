@@ -42,7 +42,7 @@ function ManageCharactersPage() {
   const fetchCharacters = async () => {
     try {
       console.log('Fetching characters from API...');
-      const res = await fetch('http://localhost:5001/characters');
+      const res = await fetch('/api/characters');
       const data = await res.json();
       console.log('Fetched data:', data);
       if (Array.isArray(data)) {
@@ -56,7 +56,7 @@ function ManageCharactersPage() {
   };
 
   useEffect(() => {
-    fetch('http://localhost:5001/characters')
+    fetch('/api/characters')
       .then((res) => res.json())
       .then((data) => {
         console.log('DB data:', data);
@@ -98,7 +98,7 @@ function ManageCharactersPage() {
 
   const handleSubmitSelection = async () => {
     try {
-      const response = await fetch('http://localhost:5001/characters/selected', {
+      const response = await fetch('/api/characters/selected', {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ selectedIds: tempSelectedCharacters }),
@@ -127,7 +127,7 @@ function ManageCharactersPage() {
 
   const handleRemoveCharacter = async (id: string) => {
     try {
-      const response = await fetch(`http://localhost:5001/characters/deselect/${id}`, {
+      const response = await fetch(`/api/characters/deselect/${id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
       });
